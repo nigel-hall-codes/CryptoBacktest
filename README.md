@@ -6,7 +6,7 @@ Then you can find the strategy return calculations in [last30DayStrategy.py](htt
 
 This initial strategy showed ![this](https://github.com/nigel-hall-codes/CryptoBacktest/blob/master/DailyTradeCryptoStrategy.png?raw=true)
 
-This was ok but I found usually when I trade on exchanges you are not able to buy and sell same day.  This led me to create an algorithm with a longer hold period
+This was ok but I found usually when I trade on exchanges you are not able to buy and sell same day.  This led me to create an algorithm with a longer hold period found [here](https://github.com/nigel-hall-codes/CryptoBacktest/blob/master/WeekHoldStrategy.py)
 
 ![Here](https://github.com/nigel-hall-codes/CryptoBacktest/blob/master/WeekHoldStrategy.png?raw=true)
 
